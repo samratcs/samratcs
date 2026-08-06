@@ -112,13 +112,13 @@ P.C.M. Mahavidyalaya                                                     Jan 202
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-samratcs-dev.vercel.app/api?username=samratcs&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+  <!-- <img src="https://github-readme-stats-samratcs-dev.vercel.app/api?username=samratcs&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" /> -->
   <img src="https://streak-stats.demolab.com?user=samratcs&theme=default&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-samratcs-dev.vercel.app/api/top-langs/?username=samratcs&layout=compact&hide_border=true&langs_count=8" width="60%" />
-</p>
+</p> -->
 
 > 🔧 These cards pull live data from `github.com/samratcs`. If any card shows an error image instead of stats, it usually means the username has no public repos/contributions yet, or the free hosting service is temporarily rate-limited — refresh the page after a minute.
 
