@@ -1,15 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:092E20&height=200&section=header&text=Hi%20👋%2C%20I'm%20Samrat%20Sur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20BFSI%20Domain%20Specialist&descSize=18&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,50:0077B5,100:00A8E8&height=260&section=header&text=Hi%20👋%2C%20I'm%20Samrat%20Sur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Developer%20%40TCS%20%7C%20BFSI%20Backend%20Specialist&descSize=19&descAlignY=48" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Python+%26+Django+for+BFSI+Backends;Core+Java+%7C+Flutter+%7C+OCI+Certified;6%2B+Years+across+IT+Industry+%26+Academia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=0077B5&center=true&vCenter=true&width=650&lines=Python+%26+Django+for+BFSI+Backends;Core+Java+%7C+Flutter+%7C+OCI+Certified;6%2B+Years+across+IT+Industry+%26+Academia;Building+Secure+Systems+for+Global+Banking" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/samrat-sur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:samratiafo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Howrah%2C%20West%20Bengal%2C%20India-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samratcs&style=for-the-badge&color=0077B5&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge" />
 </p>
 
 ---
@@ -130,6 +135,24 @@ P.C.M. Mahavidyalaya                                                     Jan 202
 
 ---
 
+<!-- ============ RECRUITER SNAPSHOT ============ -->
+<h3 align="center">📋 Recruiter Snapshot</h3>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🏦 Domain</b><br/>BFSI Backend Systems</td>
+    <td align="center"><b>⏳ Experience</b><br/>6+ Years (Industry + Academia)</td>
+    <td align="center"><b>📍 Based In</b><br/>Howrah, West Bengal, India</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Core Stack</b><br/>Python · Django · DRF · Java</td>
+    <td align="center"><b>☁️ Cloud</b><br/>OCI Certified (x2)</td>
+    <td align="center"><b>🎯 Status</b><br/>Open to New Opportunities</td>
+  </tr>
+</table>
+
+---
+
 ### 🤝 Let's Connect
 
 <p align="center">
@@ -138,3 +161,13 @@ P.C.M. Mahavidyalaya                                                     Jan 202
 </p>
 
 <p align="center"><i>Building secure, scalable systems for the world's financial infrastructure — one clean commit at a time.</i></p>
+
+<!-- ============ UNIQUE RECRUITER FOOTER ============ -->
+<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=00A8E8&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by+%E2%80%94+let's+build+something+reliable+together;Recruiters%2C+I'm+one+message+away%3A+samratiafo%40gmail.com;Currently+shipping+BFSI-grade+backends+at+TCS" alt="Footer Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:0077B5,100:092E20&height=150&section=footer" width="100%" />
+</p>
