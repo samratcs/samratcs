@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/samrat-sur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:samratiafo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:samrat.cs@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Howrah%2C%20West%20Bengal%2C%20India-blue?style=for-the-badge" />
 </p>
 
@@ -30,7 +30,7 @@
 - 👨‍🏫 Former **State Aided College Teacher (SACT)**, Computer Science — mentored undergraduates in DSA, Algorithms & Software Engineering
 - ☁️ **Oracle Cloud Infrastructure (OCI)** Certified — Cloud Foundations & AI Foundations
 - 🌱 Currently learning **FastAPI** — building async, high-performance REST APIs alongside my DRF experience
-- 📫 Reach me at **samratiafo@gmail.com**
+- 📫 Reach me at **samrat.cs@outlook.com**
 
 ---
 
