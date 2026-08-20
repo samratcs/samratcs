@@ -118,6 +118,7 @@ P.C.M. Mahavidyalaya                                                     Jan 202
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=samratcs&theme=default&hide_border=true&v=2" width="48%" />
 </p>
+
 ### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samratcs&theme=react-dark&hide_border=true" width="95%" />
