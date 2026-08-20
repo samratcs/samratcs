@@ -127,15 +127,8 @@ P.C.M. Mahavidyalaya                                                     Jan 202
   <img src="https://github-readme-stats-samratcs-dev.vercel.app/api/top-langs/?username=samratcs&layout=compact&hide_border=true&langs_count=8" width="60%" />
 </p> -->
 
-> 🔧 These cards pull live data from `github.com/samratcs`. If any card shows an error image instead of stats, it usually means the username has no public repos/contributions yet, or the free hosting service is temporarily rate-limited — refresh the page after a minute.
-
 ---
 
-### 🏆 GitHub Achievements
-
-> Badges like Pull Shark, Quickdraw, and Pair Extraordinaire appear automatically on your profile once earned — no README code needed. Visible under your profile's "Achievements" section once unlocked.
-
----
 
 <!-- ============ RECRUITER SNAPSHOT ============ -->
 <h3 align="center">📋 Recruiter Snapshot</h3>
