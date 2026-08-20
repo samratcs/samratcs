@@ -152,7 +152,7 @@ P.C.M. Mahavidyalaya                                                     Jan 202
 
 <p align="center">
   <a href="https://linkedin.com/in/samrat-sur"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:samratiafo@gmail.com"><img src="https://img.shields.io/badge/Email-samratiafo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:samrat.cs@outlook.com"><img src="https://img.shields.io/badge/Email-samrat.cs%40outlook.com-D14836?style=for-the-badge&logo=outlook&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Building secure, scalable systems for the world's financial infrastructure — one clean commit at a time.</i></p>
