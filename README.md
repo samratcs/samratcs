@@ -116,7 +116,7 @@ P.C.M. Mahavidyalaya                                                     Jan 202
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samratcs&theme=default&hide_border=true" width="85%" />
+  <img src="https://streak-stats.demolab.com/?user=samratcs&theme=default&hide_border=true&v=2" width="48%" />
 </p>
 
 <!-- <p align="center">
